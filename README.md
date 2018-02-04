@@ -1,2 +1,2 @@
-# function-graph
+# Function Grapher
 Single variable function grapher
